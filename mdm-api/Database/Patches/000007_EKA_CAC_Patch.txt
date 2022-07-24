@@ -1,0 +1,40 @@
+Patch No                    :  000007_EKA_CAC_Patch
+
+Project / Product           :  1.0.0
+==================================================================
+Created by                  :  Ranjan Jha
+ 
+Created on                  :  25-Feb-2019
+
+Bug / Enhancement           :  
+==================================================================
+Module / Feature Group:
+==================================================================
+Module                      :  MDM
+
+
+Bug ID / Enhancement        :  
+
+ 
+Sub-Module                  :  
+ 
+Section                     :  N/A  
+ 
+Screen                      :  N/A
+ 
+FS Number and Clause No.    :  N/A
+ 
+FS Enhancement details      :  N/A
+ 
+FS Amendment details        :  N/A
+
+dependent code patches      :  -
+
+Remarks                     :  -
+ 
+Related DB Patches          :  N/A
+
+==================================================================
+
+scripts:
+Database/Scripts/Mongo/000008_Master.js

@@ -1,0 +1,41 @@
+Patch No                    :  000000_EKA_CONNECT_Patch
+
+Project / Product           :  1.0.0
+==================================================================
+Created by                  :  Srinivasan M
+ 
+Created on                  :  30-Jan-2019
+
+Bug / Enhancement           :  
+==================================================================
+Module / Feature Group:
+==================================================================
+Module                      :  Sample
+
+
+Bug ID / Enhancement        :  
+
+ 
+Sub-Module                  :  
+ 
+Section                     :  N/A  
+ 
+Screen                      :  N/A
+ 
+FS Number and Clause No.    :  N/A
+ 
+FS Enhancement details      :  N/A
+ 
+FS Amendment details        :  N/A
+
+dependent code patches      :  -
+
+Remarks                     :  -
+ 
+Related DB Patches          :  N/A
+
+==================================================================
+
+scripts:
+Database/Scripts/MySQL/000000_sample.sql
+Database/Scripts/Mongo/000000_sample.js
